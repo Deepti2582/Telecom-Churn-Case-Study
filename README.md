@@ -22,7 +22,7 @@ _Data Preparation_
 
 1. Derived New Features 
 2. Filter high-value customers
-3.Tag churners and remove attributes of the churn phase
+3. Tag churners and remove attributes of the churn phase
 
 _ALGORITHM_
 
